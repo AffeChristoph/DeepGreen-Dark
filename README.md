@@ -12,7 +12,7 @@ Here is a screenshot of what the theme looks like.
 
 2. Move whole folder to ~/.themes
 
-3. In Gnome Tweaks, change shell theme to Pretty-In-Purple
+3. In Gnome Tweaks, change shell theme to DeepGreen-Dark
 
 ## Note
 This theme is a fork of the [Pretty in Purple](https://github.com/Juno-ko/Pretty-In-Purple) theme, so there might be some areas that are still in purple. Should you spot something, feel free to commit.
