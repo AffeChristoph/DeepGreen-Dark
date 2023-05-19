@@ -1,6 +1,6 @@
 # DeepGreen-Dark
 
-DeepGreen-Dark is a gnome shell theme based on the colour scheme that I personally made and applied using [Gradience](https://github.com/GradienceTeam/Gradience), a Libadwaita customizing tool.
+DeepGreen-Dark is a GNOME Shell theme based on the colour scheme that I personally made and applied using [Gradience](https://github.com/GradienceTeam/Gradience), a Libadwaita customizing tool.
 
 Here is a screenshot of what the theme looks like.
 
